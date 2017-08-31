@@ -4,7 +4,7 @@ The list below provides direct links to a range of tools for
 resource bounds analysis in general:
 
 - RAML Website: http://raml.co (hoffjan)
-- Lazy Amortised Analysis: http://kashmir.dcc.fc.up.pt/cgi/lazy.cgi (pbv)
+- Amortised cost analysis for lazy evaluation: http://kashmir.dcc.fc.up.pt/cgi/lazy.cgi (pbv)
 - Loop and complexity bounds for C programs: http://forsyte.at/software/loopus/  (fzuleger)
 - Static analyser for concurrent objects, including resource analysis: http://costa.ls.fi.upm.es/saco/web/ (genaim) 
 - Absynth - Automatic Bound Synthesizer for Probabilistic Programs, the binary and benchmark are available: http://channgo2203.github.io/research  (channgo)
